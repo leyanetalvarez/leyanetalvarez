@@ -27,17 +27,6 @@ Actualmente estoy buscando oportunidades:
 - Git
 - Linux
 
-## Proyectos destacados
-
-### Framework para análisis de calidad de recursos de aprendizaje
-Sistema web para análisis estadístico y generación de recomendaciones.
-
-### Predicción de marginación mediante Machine Learning
-Comparación de algoritmos supervisados y técnicas de balanceo de clases.
-
-### API de gestión financiera
-Backend desarrollado con FastAPI, JWT y SQLAlchemy.
-
 ## Contacto
 
 📧 leyanet99@gmail.com
